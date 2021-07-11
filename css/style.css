@@ -1,0 +1,71 @@
+body {
+    background-color: #2F2E2B;
+    overflow-x: hidden;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+h1 {
+    text-align: center;
+    color: #FFC700;
+    font-size: 96px;
+}
+.Описание1 {
+    color: #FFC700;
+    font-size: 34px;
+    margin-left: 778px;
+    margin-top: 134px;
+}
+.Машина {
+    width: 700px;
+    height: 300px;
+}
+.Описание2 {
+    color: #FFC700;
+    font-size: 34px;
+    margin-right: 567px;
+    margin-top: 123px;
+    margin-left: 123px;
+}
+.Человек1 {
+    width: 855px;
+    height: 450px;
+    margin-left: 690px;
+}
+h2 {
+    color: #FFC700;
+    font-size: 80px;
+    margin-left: 60px;
+}
+.Forbes1 {
+    color: #00FFD1;
+    font-size: 35px;
+    margin-left: 178px;
+}
+.Forbes2 {
+    color: #00FFD1;
+    font-size: 35px;
+    margin-left: 210px;
+}
+.Ашот1 {
+    color: #00FFD1;
+    font-size: 35px;
+    margin-left: 778px;
+}
+.Ашот2 {
+    color: #00FFD1;
+    font-size: 35px;
+    margin-left: 978px;
+}
+.Гоша1 {
+    color: #00FFD1;
+    font-size: 35px;
+    margin-left: 258px;
+}
+.Гоша2 {
+    color: #00FFD1;
+    font-size: 35px;
+    margin-left: 258px;
+}
+.Человек2 {
+    margin-left: 745px;
+}
